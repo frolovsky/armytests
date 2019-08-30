@@ -1,0 +1,6 @@
+Quiz Name: Тест
+Result: Failed
+User Score: 50 / 100 (50%)
+Passing Score: 80 (80%)
+Quiz Taking Time: 21 сек
+
